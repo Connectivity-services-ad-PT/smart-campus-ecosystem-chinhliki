@@ -4,8 +4,8 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
+- Họ tên: Đinh Ngọc Chính
+- Mã sinh viên: 1771020103
 - Nhóm:
 - Vai trò dự kiến trong nhóm:
 - Hệ điều hành:
